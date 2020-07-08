@@ -1,4 +1,5 @@
 Task 1
+
 1.    What do you mean by git and GitHub?
     -- Git is a software. A distributed version control system software which can allow different people around the world to make commit in the project and handle the versions of the project and maintain those version. In git you make repositories. We can make changes to the project on git without any internet access it stores a local backup in computer.
    -- GitHub is a website where anyone from anywhere can work on projects together. It is a social network which uses git software somewhere in the background to manage projects.
@@ -17,6 +18,7 @@ Task 1
 
 
 Task 2
+
 Share the link to the GitHub repository you have created? https://github.com/Aditya-Tomar/Learning-Stuff-.git
 your README should contain brief about the project and should be written in markdown language. https://github.com/Aditya-Tomar/Learning-Stuff-/blob/master/README.md
 How git workflow works? 
